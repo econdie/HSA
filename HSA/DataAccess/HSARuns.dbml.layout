@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="HSARuns">
+  <DataContextMoniker Name="/HSARunsDataContext" />
+  <nestedChildShapes>
+    <classShape Id="8e2a4353-8346-452b-9eec-2a5a08a570c5" absoluteBounds="3.125, 2.125, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/HSARunsDataContext/zzArenaRun" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e01956e7-c1a7-447c-95a8-e47bdb6d452a" absoluteBounds="3.14, 2.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="HSARuns" Class="HSARunsDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=ERIK-PC\SQLEXPRESS;Initial Catalog=HSARuns;Integrated Security=True" SettingsObjectName="HSA.Properties.Settings" SettingsPropertyName="HSARunsConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.zzArenaRuns" Member="zzArenaRuns">
+    <Type Name="zzArenaRun">
+      <Column Name="RunID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Wins" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Losses" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Hero" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="RunDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,46 @@
+s:\visual studio 2013\Projects\HSA\HSA\bin\Debug\HSA.exe.config
+s:\visual studio 2013\Projects\HSA\HSA\bin\Debug\HSA.exe
+s:\visual studio 2013\Projects\HSA\HSA\bin\Debug\HSA.pdb
+s:\visual studio 2013\Projects\HSA\HSA\obj\Debug\HSA.csprojResolveAssemblyReference.cache
+s:\visual studio 2013\Projects\HSA\HSA\obj\Debug\App.g.cs
+s:\visual studio 2013\Projects\HSA\HSA\obj\Debug\HSA_MarkupCompile.cache
+s:\visual studio 2013\Projects\HSA\HSA\obj\Debug\HSA.g.resources
+s:\visual studio 2013\Projects\HSA\HSA\obj\Debug\HSA.Properties.Resources.resources
+s:\visual studio 2013\Projects\HSA\HSA\obj\Debug\HSA.csproj.GenerateResource.Cache
+s:\visual studio 2013\Projects\HSA\HSA\obj\Debug\HSA.exe
+s:\visual studio 2013\Projects\HSA\HSA\obj\Debug\HSA.pdb
+S:\visual studio 2013\Projects\HSA\HSA\obj\Debug\App.baml
+S:\visual studio 2013\Projects\HSA\HSA\obj\Debug\GeneratedInternalTypeHelper.g.cs
+S:\visual studio 2013\Projects\HSA\HSA\obj\Debug\HSA_MarkupCompile.lref
+S:\visual studio 2013\Projects\HSA\HSA\obj\Debug\Views\ApplicationWindow.baml
+S:\visual studio 2013\Projects\HSA\HSA\obj\Debug\Views\MainWindowView.baml
+S:\visual studio 2013\Projects\HSA\HSA\obj\Debug\Views\ApplicationWindow.g.cs
+S:\visual studio 2013\Projects\HSA\HSA\obj\Debug\Views\MainWindowView.g.cs
+S:\visual studio 2013\Projects\HSA\HSA\obj\Debug\Views\ArenaRunEditView.g.cs
+S:\visual studio 2013\Projects\HSA\HSA\obj\Debug\Views\ArenaRunEditView.baml
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\bin\Debug\HSA.exe.config
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\obj\Debug\HSA.exe
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\obj\Debug\HSA.pdb
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\bin\Debug\HSA.exe
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\bin\Debug\HSA.pdb
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\obj\Debug\HSA.csprojResolveAssemblyReference.cache
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\obj\Debug\Views\ArenaRunEditView.baml
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\obj\Debug\Views\MainWindowView.baml
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\obj\Debug\Views\ApplicationWindow.g.cs
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\obj\Debug\Views\ArenaRunEditView.g.cs
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\obj\Debug\Views\MainWindowView.g.cs
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\obj\Debug\App.g.cs
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\obj\Debug\GeneratedInternalTypeHelper.g.cs
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\obj\Debug\HSA_MarkupCompile.cache
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\obj\Debug\HSA_MarkupCompile.lref
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\obj\Debug\App.baml
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\obj\Debug\Views\ApplicationWindow.baml
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\obj\Debug\HSA.g.resources
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\obj\Debug\HSA.Properties.Resources.resources
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\obj\Debug\HSA.csproj.GenerateResource.Cache
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\obj\Debug\Views\ArenaRunAddView.baml
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\obj\Debug\Views\ArenaRunAddView.g.cs
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\bin\Debug\HSA.exe.manifest
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\bin\Debug\HSA.application
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\obj\Debug\HSA.exe.manifest
+S:\visual studio 2013\Projects\HSA iteration 2\HSA\obj\Debug\HSA.application
