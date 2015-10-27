@@ -1,2 +1,2 @@
 # HSA
-C# .NET learning application implementing MVVM that tracks hearthstone arena runs.
+C# .NET app implementing MVVM that I built as a learning exercise. Tracks hearthstone arena runs.
